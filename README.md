@@ -9,4 +9,4 @@
 - Отслеживание прогресса чтения [Открыть](https://github.com/polivanovaas/smart-tobo-srs/issues/3)
 - Рецензии на книги [Открыть](https://github.com/polivanovaas/smart-tobo-srs/issues/4)
 - Статистика чтения [Открыть](https://github.com/polivanovaas/smart-tobo-srs/issues/5)
-- Редактирование удаление [Открыть](https://github.com/polivanovaas/smart-tobo-srs/issues/6)
+- Редактирование и удаление книг [Открыть](https://github.com/polivanovaas/smart-tobo-srs/issues/6)
